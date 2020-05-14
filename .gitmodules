@@ -1,0 +1,3 @@
+[submodule "lib/delphi-webp"]
+	path = lib/delphi-webp
+	url = https://github.com/Wykerd/delphi-webp.git
